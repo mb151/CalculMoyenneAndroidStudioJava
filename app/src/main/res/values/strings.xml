@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalculeMoyenne</string>
+    <string name="calculer">Calculer</string>
+    <string name="effacer">Effacer</string>
+    <string name="quitter">Quitter</string>
+    <string name="note1">Note 1:</string>
+    <string name="note2">Note 2:</string>
+    <string name="note3">Note 3:</string>
+    <string name="coefficient1">Coefficient 1:</string>
+    <string name="coefficient2">Coefficient 2:</string>
+    <string name="coefficient3">Coefficient 3:</string>
+    <string name="boutonCheck">Coefficient 1 pour toutes les matieres</string>
+    <string-array name="matiere">
+        <item>SQL</item>
+        <item>Dev Android</item>
+        <item>CSharp</item>
+        <item>UML</item>
+        <item>PLSQL</item>
+    </string-array>
+    <string name="alert">One of the matiere has been chosed many times</string>
+</resources>
